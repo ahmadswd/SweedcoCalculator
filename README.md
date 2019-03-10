@@ -1,2 +1,2 @@
-# SweedcoCalculator
+## Sweedco Calculator
 Simple Calculator 
