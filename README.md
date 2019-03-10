@@ -1,0 +1,2 @@
+# SweedcoCalculator
+Simple Calculator 
